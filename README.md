@@ -6,7 +6,7 @@ Tutorials on how the shader works will be made eventually! If you need help feel
 
 Links to find me 
 
-My Twitter: @TheCrypticLight
+My Twitter: https://twitter.com/TheCrypticLight
 
 My Discord Server: https://discord.gg/tpkWezm
 
