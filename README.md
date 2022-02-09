@@ -1,6 +1,6 @@
 # CC2-KNY-Shader-Blender-3.0
 This is a blender shader ment for cc2's kny game HOWEVER  I WILL NOT TOLERATE NSFW ART BEING MADE WITH THE SHADER
-Please credit me for the shader when used and please DO NOT use the shader for any NSFW work! 
+Please credit me for the shader when used and please DO NOT use the shader for any NSFW WORK! 
 
 Tutorials on how the shader works will be made eventually! If you need help feel free to ask me in my discord server!
 
