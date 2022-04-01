@@ -3,7 +3,12 @@
 Please credit me for the shader when used and please DO NOT use the shader for any NSFW WORK! 
 This is a blender shader ment for cc2's kny game HOWEVER  I WILL NOT TOLERATE NSFW ART BEING MADE WITH THE SHADER
 
-Tutorials on how the shader works will be made eventually! If you need help feel free to ask me in my discord server!
+Tutorials on how the shader works below! If you need help feel free to ask me in my discord server!
+Tutorials: 
+
+https://youtu.be/MuG1a_CVWf0
+
+https://youtu.be/XyynORIFESc
 
 Links to find me 
 
@@ -17,9 +22,7 @@ https://user-images.githubusercontent.com/66538714/161225522-f7f6c4ee-92a5-4878-
 
 https://user-images.githubusercontent.com/66538714/153128739-9a977bc0-9884-4fea-ba0e-5427c573aec3.mp4
 
-Tutorials: 
-https://youtu.be/MuG1a_CVWf0
-https://youtu.be/XyynORIFESc
+
 
 Renders made with the Blender Shader!
 ![Tanjiro_EP_19_HK_Render_WM](https://user-images.githubusercontent.com/66538714/153128559-de3a45d6-c889-4400-a85a-5444d35b7f89.png)
