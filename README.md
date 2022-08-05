@@ -2,6 +2,7 @@
 
 Please credit me for the shader when used and please DO NOT use the shader for any NSFW WORK! 
 This is a blender shader ment for cc2's kny game HOWEVER  I WILL NOT TOLERATE NSFW ART BEING MADE WITH THE SHADER
+This shader is open-source and is not to be used for commercial use only personal use!
 
 Tutorials on how the shader works below! If you need help feel free to ask me in my discord server!
 Tutorials: 
@@ -16,7 +17,6 @@ My Discord Server: https://discord.gg/tpkWezm
 
 My Twitter: https://twitter.com/TheCrypticLight
 
-Unity Shader server by Jin: https://discord.gg/y43PJnjafF
 
 https://user-images.githubusercontent.com/66538714/161225522-f7f6c4ee-92a5-4878-b7a3-4d5101bca35f.mp4
 
