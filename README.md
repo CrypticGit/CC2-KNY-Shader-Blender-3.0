@@ -1,5 +1,6 @@
 # CC2-KNY-Shader-Blender-3.0
 
+Terms:
 Please credit me for the shader when used and please DO NOT use the shader for any NSFW WORK! 
 This is a blender shader ment to replicate the shading in cc2's kny game HOWEVER  I WILL NOT TOLERATE NSFW ART BEING MADE WITH THE SHADER
 This shader is open-source and is not to be used for commercial use only personal use!
